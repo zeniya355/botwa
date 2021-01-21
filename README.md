@@ -1,4 +1,4 @@
-# 🤖Naga-Bot🤖
+# 🤖Aalismuhalat🤖
 BOT WHATSAPP TERMUX ONLY BY Aalismuhalat
 
 ### Alat dan Bahan
@@ -9,7 +9,7 @@ Siapin alat dan bahannya.
 > jaringan internet kenceng,kuota+
 > penyimpanan yang memadai
 > aplikasi whatsapp
-> jika error hubungi 088235435804
+> jika error hubungi 085707139276
 > aplikasi termux
 > kopi nya diminum..
 ```
